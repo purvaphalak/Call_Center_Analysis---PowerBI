@@ -1,5 +1,9 @@
 # Call_Center_Analysis
 
+![Screenshot 2024-05-06 150952](https://github.com/purvaphalak/Call_Center_Analysis/assets/148857209/3a60e0f9-95cc-42ea-9d80-986866815490)
+
+![Screenshot 2024-05-06 151010](https://github.com/purvaphalak/Call_Center_Analysis/assets/148857209/25dd8e7e-e99f-4c3f-bd9e-e439af11c18d)
+
 ### Project Overview
 
 - The objective of the call center analysis project in Power BI is to analyze call center performance metrics such as call volume, wait times, resolution rates, and customer satisfaction scores to identify opportunities for improvement and operational efficiency. 
