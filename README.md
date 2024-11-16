@@ -84,33 +84,36 @@ The average time to answer a call was 67.52 seconds, indicating some delays in c
 #### 1] Calls Resolved/Not Resolved by Month:
 
 The breakdown by month shows:
-January: Highest number of resolved calls (1,311), but also the most unresolved calls (461).
-February and March: Slightly fewer calls than January, but the resolution rates remain consistent.
+- January: Highest number of resolved calls (1,311), but also the most unresolved calls (461).
+- February and March: Slightly fewer calls than January, but the resolution rates remain consistent.
 
 #### 2] Total Calls by Weekday:
 
-The call volume is highest on Monday (770) and Saturday (768), and slightly lower on weekdays like Tuesday (675).
-Insights: Staffing on peak days like Monday and Saturday might need adjustment to handle higher traffic.
+- The call volume is highest on Monday (770) and Saturday (768), and slightly lower on weekdays like Tuesday (675).
+- Insights: Staffing on peak days like Monday and Saturday might need adjustment to handle higher traffic.
 
 #### 3] Total Calls by Hour:
 
-Calls peak between 11 AM to 3 PM, with 12 PM being the busiest hour (590 calls).
-The volume drops sharply after 5 PM.
-Insights: Agents should be more available during peak hours for better handling of call volumes.
+- Calls peak between 11 AM to 3 PM, with 12 PM being the busiest hour (590 calls).
+- The volume drops sharply after 5 PM.
+- Insights: Agents should be more available during peak hours for better handling of call volumes.
 
 #### 4] Answered and Abandoned Calls by Topic:
 
-Calls related to Streaming and Payment Issues had the highest abandonment rates, despite being common topics.
-Technical Support calls were handled relatively well, indicating better resolution processes in that area.
+- Calls related to Streaming and Payment Issues had the highest abandonment rates, despite being common topics.
+- Technical Support calls were handled relatively well, indicating better resolution processes in that area.
 
-## ✅- Filters and Interactivity:
+## ✅ Filters and Interactivity:
 The dashboard includes several filters for:
 
-Date: Users can adjust the time frame to view specific periods.
+#### - Date:
+Users can adjust the time frame to view specific periods.
 
-Month: Allows analysis of monthly trends.
+#### - Month:
+Allows analysis of monthly trends.
 
-Agent and Topic: Helps to drill down into individual agent performance or specific call topics.
+#### Agent and Topic:
+ Helps to drill down into individual agent performance or specific call topics.
 
 ## ✅ Findings and Recommendations:
 
@@ -229,20 +232,24 @@ Call volumes are fairly distributed among agents, but there is scope to adjust w
 ### ✅ Overall Insights:
 
 #### ➼ Call Metrics:
-Out of 5,000 total calls, 81% (4,054 calls) were answered, while 946 calls (19%) were abandoned.
-72.92% of answered calls were resolved, indicating room for improvement in issue resolution efficiency.
+
+- Out of 5,000 total calls, 81% (4,054 calls) were answered, while 946 calls (19%) were abandoned.
+- 72.92% of answered calls were resolved, indicating room for improvement in issue resolution efficiency.
 
 #### ➼ Call Volume Trends:
-Monday and Saturday had the highest call volumes, while weekdays like Tuesday had comparatively lower volumes.
-Peak call hours were observed between 10 AM and 2 PM, with a notable drop after 5 PM.
+
+- Monday and Saturday had the highest call volumes, while weekdays like Tuesday had comparatively lower volumes.
+- Peak call hours were observed between 10 AM and 2 PM, with a notable drop after 5 PM.
 
 #### ➼ Agent Performance:
-Jim resolved the highest number of issues (485) and handled the most calls, while Diane had the most missed calls.
-Martha had the highest average satisfaction rating (3.47), while Joe had the lowest (3.33).
-Becky had the fastest average speed of answer (65.3 seconds), while Joe had the slowest (71.5 seconds).
+
+- Jim resolved the highest number of issues (485) and handled the most calls, while Diane had the most missed calls.
+- Martha had the highest average satisfaction rating (3.47), while Joe had the lowest (3.33).
+- Becky had the fastest average speed of answer (65.3 seconds), while Joe had the slowest (71.5 seconds).
 
 #### ➼ Customer Satisfaction:
-The average satisfaction rating across the call center was 3.4 out of 5, indicating a need to address service quality and efficiency.
+
+- The average satisfaction rating across the call center was 3.4 out of 5, indicating a need to address service quality and efficiency.
 
 ## 💠 Summary :
 
