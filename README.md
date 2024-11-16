@@ -54,51 +54,51 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### KPI's:
 
-### ➼ Average Satisfaction Rating:
+#### ➼ Average Satisfaction Rating:
 
 Rating : 3.40 out of 5, indicating an average level of customer satisfaction.
 There is room for improvement in terms of providing a better customer experience.
 
-### ➼ Total Calls:
+#### ➼ Total Calls:
 
 5,000 calls were received in total during the selected time frame.
 
-### ➼ Answered Calls:
+#### ➼ Answered Calls:
 
 4,054 calls (81.08%) were successfully answered.
 
 This indicates a good response rate, but there is a significant number of 946 calls (18.92%) that were abandoned.
 
-### ➼ Resolved Calls:
+#### ➼ Resolved Calls:
 
 Out of the answered calls, 3,646 (72.92%) were resolved successfully.
 
 27.08% of the calls were unresolved, which highlights areas where better resolution processes might be needed.
 
-### ➼ Average Speed of Answer:
+#### ➼ Average Speed of Answer:
 
 The average time to answer a call was 67.52 seconds, indicating some delays in connecting with customers. Reducing this can improve customer satisfaction.
 
 ## ✅ Detailed Visual Analysis:
 
-### 1] Calls Resolved/Not Resolved by Month:
+#### 1] Calls Resolved/Not Resolved by Month:
 
 The breakdown by month shows:
 January: Highest number of resolved calls (1,311), but also the most unresolved calls (461).
 February and March: Slightly fewer calls than January, but the resolution rates remain consistent.
 
-### 2] Total Calls by Weekday:
+#### 2] Total Calls by Weekday:
 
 The call volume is highest on Monday (770) and Saturday (768), and slightly lower on weekdays like Tuesday (675).
 Insights: Staffing on peak days like Monday and Saturday might need adjustment to handle higher traffic.
 
-### 3] Total Calls by Hour:
+#### 3] Total Calls by Hour:
 
 Calls peak between 11 AM to 3 PM, with 12 PM being the busiest hour (590 calls).
 The volume drops sharply after 5 PM.
 Insights: Agents should be more available during peak hours for better handling of call volumes.
 
-### 4] Answered and Abandoned Calls by Topic:
+#### 4] Answered and Abandoned Calls by Topic:
 
 Calls related to Streaming and Payment Issues had the highest abandonment rates, despite being common topics.
 Technical Support calls were handled relatively well, indicating better resolution processes in that area.
@@ -114,23 +114,23 @@ Agent and Topic: Helps to drill down into individual agent performance or specif
 
 ## ✅ Findings and Recommendations:
 
-### 1] Call Handling:
+#### 1] Call Handling:
 
 - With 946 calls abandoned, improving the availability of agents during peak hours can enhance response rates.
 
-### 2] Customer Satisfaction:
+#### 2] Customer Satisfaction:
 
 - An average rating of 3.40 indicates the need for better training, faster resolutions, and improved processes to enhance customer experience.
 
-### 3] Resolution Rates:
+#### 3] Resolution Rates:
 
 - While 72.92% resolution is good, focusing on unresolved calls can further improve customer trust and retention.
 
-### 4] Peak Hours and Days:
+#### 4] Peak Hours and Days:
 
 - Reinforce staffing during peak times (11 AM - 3 PM) and busier days (Monday and Saturday) to handle higher call volumes efficiently.
 
-### 5] Topic-Specific Insights:
+#### 5] Topic-Specific Insights:
 
 - Focus on Streaming and Payment-related issues as these areas see high abandonment rates, which can negatively impact customer perception.
 
@@ -138,63 +138,63 @@ Agent and Topic: Helps to drill down into individual agent performance or specif
 
 ![Screenshot 2024-05-06 151010](https://github.com/purvaphalak/Call_Center_Analysis/assets/148857209/25dd8e7e-e99f-4c3f-bd9e-e439af11c18d)
 
-### ➼ Total Agents:
+#### ➼ Total Agents:
  
  The dashboard analyzes the performance of 8 agents.
  
-### ➼ Total Calls:
+####  ➼ Total Calls:
 
 5,000 calls were received, with 4,054 calls (81.08%) answered.
 
-### ➼ Most Issue Resolved:
+#### ➼ Most Issue Resolved:
 
 Jim resolved the highest number of calls (485 calls) among all agents, showcasing exceptional problem-solving efficiency.
 
-### ➼ Most Calls Missed:
+#### ➼ Most Calls Missed:
 
 Diane missed the most calls (132 calls) during this period, indicating areas for improvement in her availability or call-handling capacity.
 
-### ➼ Highest Customer Satisfaction Rating:
+#### ➼ Highest Customer Satisfaction Rating:
 
 Martha achieved the highest satisfaction rating of 3.47 out of 5, showing her ability to handle calls with high-quality service.
 
-### ➼ Quickest to Answer:
+#### ➼ Quickest to Answer:
 
 Diane had the fastest average speed of answer at 66.2 seconds, highlighting her responsiveness.
 
 ## ✅ Detailed Visual Analysis:
 
-### 1] Answered Calls by Agents:
+#### 1] Answered Calls by Agents:
 
 - The highest number of calls answered was by Jim (536 calls), followed by Martha (514 calls).
   
 - Stewart answered the least number of calls (477 calls), indicating either fewer assigned calls or potential inefficiency.
 
-### 2] Resolved Calls by Agents:
+#### 2] Resolved Calls by Agents:
 
 - Jim leads in resolved calls (485 resolved out of 536 answered), reflecting his efficiency.
   
 - Joe has the lowest number of resolved calls (436 resolved out of 484 answered), which might indicate challenges in resolving customer issues.
 
-### 3] Total Calls by Agent:
+#### 3] Total Calls by Agent:
 
 - Jim handled the most total calls (638 calls), while Stewart handled the least (582 calls).
   
 - The relatively balanced distribution suggests a fair allocation of calls among agents.
 
-### 4] Average Speed of Answer by Agent:
+#### 4] Average Speed of Answer by Agent:
 
 - Diane is the quickest to respond (66.2 seconds), while Joe is the slowest (71.5 seconds).
   
 - Faster response times generally contribute to better customer satisfaction.
 
-### 5] Satisfaction Rating by Agent:
+#### 5] Satisfaction Rating by Agent:
 
 - Martha has the highest rating (3.47), followed by Dan (3.45).
   
 - Joe has the lowest rating (3.33), signaling areas for improvement in his service quality.
-
-### 6] Agent Statistics Table:
+- 
+#### 6] Agent Statistics Table:
 
 Provides a clear overview of each agent's performance in terms of:
 - Answered Calls
@@ -206,21 +206,21 @@ For instance, Martha has a low abandonment rate (124 calls) and high customer sa
 
 ## ✅ Findings and Recommendations:
 
-### 1] Top Performers:
+#### 1] Top Performers:
 
 Jim is the top performer in terms of volume, resolving the highest number of calls.
 Martha excels in customer satisfaction, reflecting a customer-focused approach.
 
-### 2] Improvement Areas:
+#### 2] Improvement Areas:
 
 Diane needs to address her high missed-call rate (132 missed calls), despite her quick response times.
 Joe should focus on improving resolution rates and customer satisfaction.
 
-### 3] Balanced Workload:
+#### 3] Balanced Workload:
 
 Call volumes are fairly distributed among agents, but there is scope to adjust workloads for agents with higher abandonment rates to improve efficiency.
 
-### 4] Response Times:
+#### 4] Response Times:
 
 - Improving the overall average speed of answer (67.52 seconds) could enhance customer satisfaction and reduce abandoned calls.
   
